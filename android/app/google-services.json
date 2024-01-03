@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764713739072",
+    "project_id": "smart-glove-7b353",
+    "storage_bucket": "smart-glove-7b353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764713739072:android:51b128637ab999a56250a5",
+        "android_client_info": {
+          "package_name": "com.example.smart_glove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN16qZkJptvdC8J_uCZf8W-eCHpsjW8ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
